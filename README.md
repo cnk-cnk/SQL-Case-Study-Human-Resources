@@ -1,7 +1,7 @@
 # SQL Case Study: Human Resources
   Take a look at the PDF file to have a presentation summary of the data analysis task.
  
-## Data Analysis process to solve the business task challenge
+## Data Analysis process to solve the business challenge task
 - ASK
 - Prepare
 - Process
