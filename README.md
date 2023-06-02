@@ -17,10 +17,10 @@ highest rank).
 employee hired in the same department.
 
 ## Prepare
-SQL Case Study from DATA IN MOTION, Kedeisha Bryan
-Data set obtained from the link https://d-i-motion.com/lessons/kedeishas-banking-services/
-The tool used to reproduce the tables is MS SQL Server
-SQL is the database query Language
+- SQL Case Study from DATA IN MOTION, Kedeisha Bryan
+- Data set obtained from the link https://d-i-motion.com/lessons/kedeishas-banking-services/
+- The tool used to reproduce the tables is MS SQL Server
+- SQL is the database query Language
 
 ## Process
 Data modeling
